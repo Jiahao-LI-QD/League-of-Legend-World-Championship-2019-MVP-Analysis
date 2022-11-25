@@ -1,0 +1,99 @@
+,champion,sum_total,win_total,winrate_total,strength,winner
+0,Kai'Sa,71,37,0.52,T3,SK Telecom T1
+1,Lee Sin,58,30,0.52,T3,Royal Never Give Up
+2,Xayah,57,35,0.61,T0,Invictus Gaming
+3,Nautilus,52,28,0.54,T3,Team Liquid
+4,Gragas,49,32,0.65,T0,J Team
+5,Rakan,43,23,0.53,T3,Splyce
+6,Gangplank,38,21,0.55,T2,SK Telecom T1
+7,Ryze,36,22,0.61,T0,Fnatic
+8,Akali,35,17,0.49,normal,Invictus Gaming
+9,Thresh,35,16,0.46,normal,DAMWON Gaming
+10,Renekton,33,17,0.52,T3,G2 Esports
+11,Elise,32,16,0.5,normal,Cloud9
+12,Syndra,29,13,0.45,normal,DAMWON Gaming
+13,Ezreal,25,11,0.44,normal,Team Liquid
+14,Kayle,24,12,0.5,normal,FunPlus Phoenix
+15,Qiyana,23,13,0.57,T1,GAM Esports
+16,Rek'Sai,22,11,0.5,normal,Griffin
+17,LeBlanc,21,11,0.52,T3,G2 Esports
+18,Leona,20,13,0.65,normal,Royal Never Give Up
+19,Jayce,19,8,0.42,normal,SK Telecom T1
+20,Gnar,18,11,0.61,normal,FunPlus Phoenix
+21,Tristana,18,8,0.44,normal,J Team
+22,Jarvan IV,18,7,0.39,normal,Griffin
+23,Vladimir,17,9,0.53,normal,G2 Esports
+24,Lucian,16,5,0.31,normal,FunPlus Phoenix
+25,Yasuo,15,10,0.67,normal,Splyce
+26,Galio,15,5,0.33,normal,J Team
+27,Camille,14,8,0.57,normal,Splyce
+28,Alistar,14,5,0.36,normal,Splyce
+29,Orianna,13,7,0.54,normal,FunPlus Phoenix
+30,Yuumi,13,5,0.38,normal,Griffin
+31,Pyke,13,4,0.31,normal,G2 Esports
+32,Nocturne,12,3,0.25,normal,Griffin
+33,Aatrox,11,5,0.45,normal,G2 Esports
+34,Ornn,10,7,0.7,normal,Cloud9
+35,Olaf,10,6,0.6,normal,Griffin
+36,Taliyah,9,6,0.67,normal,SK Telecom T1
+37,Varus,9,6,0.67,normal,Fnatic
+38,Kled,9,5,0.56,normal,Fnatic
+39,Morgana,9,5,0.56,normal,Royal Never Give Up
+40,Twisted Fate,9,4,0.44,normal,SK Telecom T1
+41,Cassiopeia,8,4,0.5,normal,Fnatic
+42,Corki,8,4,0.5,normal,Invictus Gaming
+43,Blitzcrank,8,3,0.38,normal,DAMWON Gaming
+44,Garen,8,3,0.38,normal,Team Liquid
+45,Irelia,8,3,0.38,normal,DAMWON Gaming
+46,Shen,8,3,0.38,normal,DAMWON Gaming
+47,Skarner,8,1,0.13,normal,Invictus Gaming
+48,Kennen,7,5,0.71,normal,FunPlus Phoenix
+49,Tahm Kench,7,5,0.71,normal,Griffin
+50,Heimerdinger,7,4,0.57,normal,Unicorns Of Love
+51,Sion,7,1,0.14,normal,Splyce
+52,Lissandra,6,3,0.5,normal,MAMMOTH
+53,Neeko,6,3,0.5,normal,Isurus
+54,Veigar,6,3,0.5,normal,Clutch Gaming
+55,Mordekaiser,6,0,0.0,normal,Splyce
+56,Rumble,5,3,0.6,normal,DAMWON Gaming
+57,Cho'Gath,5,2,0.4,normal,Hong Kong Attitude
+58,Zoe,5,2,0.4,normal,DAMWON Gaming
+59,Azir,5,1,0.2,normal,MEGA
+60,Ekko,5,1,0.2,normal,Flamengo eSports
+61,Karthus,5,1,0.2,normal,Lowkey Esports
+62,Ashe,4,2,0.5,normal,Unicorns Of Love
+63,Fiora,4,2,0.5,normal,DetonatioN FocusMe
+64,Karma,4,2,0.5,normal,MAMMOTH
+65,Quinn,4,2,0.5,normal,Isurus
+66,Sivir,4,2,0.5,normal,Clutch Gaming
+67,Caitlyn,4,0,0.0,normal,Splyce
+68,Draven,3,2,0.67,normal,DAMWON Gaming
+69,Jinx,3,1,0.33,normal,Hong Kong Attitude
+70,Poppy,3,1,0.33,normal,DAMWON Gaming
+71,Fiddlesticks,2,2,1.0,normal,Lowkey Esports
+72,Vayne,2,2,1.0,normal,Royal Youth
+73,Hecarim,2,1,0.5,normal,Hong Kong Attitude
+74,Jhin,2,1,0.5,normal,Unicorns Of Love
+75,Kha'Zix,2,1,0.5,normal,Clutch Gaming
+76,Lulu,2,1,0.5,normal,Royal Youth
+77,Sejuani,2,0,0.0,normal,DAMWON Gaming
+78,Sylas,2,0,0.0,normal,Clutch Gaming
+79,Jax,1,1,1.0,normal,Hong Kong Attitude
+80,Kog'Maw,1,1,1.0,normal,Splyce
+81,Malphite,1,1,1.0,normal,
+82,Pantheon,1,1,1.0,normal,
+83,Urgot,1,1,1.0,normal,
+84,Yorick,1,1,1.0,normal,
+85,Anivia,1,0,0.0,normal,
+86,Bard,1,0,0.0,normal,
+87,Braum,1,0,0.0,normal,
+88,Lux,1,0,0.0,normal,
+89,Nidalee,1,0,0.0,normal,
+90,Rengar,1,0,0.0,normal,
+91,Sona,1,0,0.0,normal,
+92,Vi,1,0,0.0,normal,
+93,Viktor,1,0,0.0,normal,
+94,Volibear,1,0,0.0,normal,
+95,Xin Zhao,1,0,0.0,normal,
+96,Ziggs,1,0,0.0,normal,
+97,Zilean,1,0,0.0,normal,
